@@ -34,6 +34,8 @@ body {
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
+
+    text-decoration: none;
 }
 
 .logo > .accent {
@@ -59,6 +61,8 @@ body {
     font-weight: 500;
     line-height: 1.14px;
     letter-spacing: 0.02em;
+
+    text-decoration: none;
 }
 
 .site-nav .link.current {
@@ -80,6 +84,8 @@ body {
 
 .footer .logo {
     color: var(--white-color);
+
+    text-decoration: none;
 }
 
 .footer .logo:hover,
@@ -91,8 +97,12 @@ body {
 
 .address {
     color: var(--white-color);
+
+    text-decoration: none;
 }
 
 .footer .contacts {
     color: var(--primary-text-color);
+
+    text-decoration: none;
 }
