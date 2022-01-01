@@ -48,7 +48,7 @@ body {
 
 .header .logo:hover,
 .header .logo:focus {
-    color: var(--title-text-color);
+    color: var(--accent-color);
 }
 
 /* Site-nav */
