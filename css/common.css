@@ -27,6 +27,10 @@ body {
     list-style: none;
 }
 
+.link {
+    text-decoration: none;
+}
+
 /* Logo */
 
 .logo {
@@ -61,8 +65,6 @@ body {
     font-weight: 500;
     line-height: 1.14px;
     letter-spacing: 0.02em;
-
-    text-decoration: none;
 }
 
 .site-nav .link.current {
@@ -84,8 +86,6 @@ body {
 
 .footer .logo {
     color: var(--white-color);
-
-    text-decoration: none;
 }
 
 .footer .logo:hover,
@@ -97,12 +97,8 @@ body {
 
 .address {
     color: var(--white-color);
-
-    text-decoration: none;
 }
 
 .footer .contacts {
     color: var(--primary-text-color);
-
-    text-decoration: none;
 }
