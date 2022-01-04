@@ -24,7 +24,24 @@
     letter-spacing: 0.06em;
 }
 
-.product-type {
+/* .portfolio .link:hover,
+.portfolio .link:focus {
+    color: var(--white-color);
+    background-color: var(--accent-color);
+} */
+
+.portfolio .link:hover,
+.portfolio .link:focus,
+.portfolio .list-title:hover,
+.portfolio .list-title:focus,
+.portfolio .product-type:hover,
+.portfolio .product-type:focus {
+    color: var(--white-color);
+    background-color: var(--accent-color);
+}
+
+.portfolio .product-type {
+    color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.87;
 }
