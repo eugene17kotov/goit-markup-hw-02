@@ -82,8 +82,8 @@ body {
 
 .header-contact:hover,
 .header-contact:focus,
-.site-nav .link:hover,
-.site-nav .link:focus {
+.nav-item:hover,
+.nav-item:focus {
     color: var(--accent-color);
 }
 
