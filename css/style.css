@@ -190,10 +190,7 @@ body {
 }
 
 .product-card:hover,
-.product-card:focus {
-}
-
-.product-type {
+.product-card:focus .product-type {
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.87;
