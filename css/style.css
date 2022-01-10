@@ -22,6 +22,7 @@ body {
         color: #212121;
     } */
 
+
 /* Tools */
 
 .list {
@@ -32,9 +33,11 @@ body {
     text-decoration: none;
 }
 
-.button {
-    cursor: pointer;
+button {
+    font-family: 'Roboto', sans-serif;
+        cursor: pointer;
 }
+
 
 /* Logo */
 
